@@ -115,7 +115,7 @@ NOTE: password has to be hashed and stored too
 ```
 ### Schema Diagram
 
-https://user-images.githubusercontent.com/1327050/168328390-12badd31-49f9-4a00-a3be-b94f7298e4fc.png
+![image](https://user-images.githubusercontent.com/1327050/168328390-12badd31-49f9-4a00-a3be-b94f7298e4fc.png)
 
 ### API Endpoints
 
