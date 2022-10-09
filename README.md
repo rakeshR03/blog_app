@@ -48,4 +48,5 @@ Make a web application for blogging which has built in capabilities to handle va
   2.  Having the capability to schedule when a blog would get posted
   3.  Sending notifications to all users who follow a current user when the current user posts a new blog or makes changes to an existing one
   4.  Capability to sort feed via time of posting, topics etc.
-  5.  Making UI responsive. Ability to club various blogs together under a bucket (topic) -> create a sequence of blogs
+  5.  Making UI responsive. 
+  6.  Ability to club various blogs together under a bucket (topic) -> create a sequence of blogs
