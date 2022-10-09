@@ -1,7 +1,9 @@
 # BLOGGING APP
-<hr />
+
 ## Problem Statement
 Make a web application for blogging which has built in capabilities to handle various users.
+<hr />
+
 
 ## Requirements
   1. CRUD capabilities for USERS 
