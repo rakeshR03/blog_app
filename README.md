@@ -17,7 +17,7 @@ Make a web application for blogging which has built in capabilities to handle va
 
 ## Basic Flow
 
-  Subject to changes basis of how you want the overall UX to be
+### Subject to changes basis of how you want the overall UX to be
  <ul>
   <li>An initial signup/signin form to create a user profile on the application
   <li>A main feed where a user can see cards for various blogs. Blogs from users which the current user has followed would have a higher priority in the feed
@@ -31,19 +31,21 @@ Make a web application for blogging which has built in capabilities to handle va
   
 ## Expectations from Submission
 
-  Points which will be focussed on during evaluation\
-  The code should be working and demonstrable\
-  Code should be written in a readable fashion using best practices\
-  Code should be optimised on various fronts and hardcoding logic should be avoided\
-  Kindly add a proper readme to your project for easy navigation and installation\
-  The overall UI should be easy to navigate and have good UX
+### Points which will be focussed on during evaluation
+<ul>
+  <li>The code should be working and demonstrable</li>
+  <li>Code should be written in a readable fashion using best practices</li>
+  <li>Code should be optimised on various fronts and hardcoding logic should be avoided</li>
+  <li>Kindly add a proper readme to your project for easy navigation and installation</li>
+  <li>The overall UI should be easy to navigate and have good UX</li>
+</ul>
 <hr />
   
-### Good to haves (Optional Requirements)
+## Good to haves (Optional Requirements)
 
-  Try to work on these features once all the required features are complete\
-  Having the capability to add blogs to drafts before posting them\
-  Having the capability to schedule when a blog would get posted\
-  Sending notifications to all users who follow a current user when the current user posts a new blog or makes changes to an existing one\
-  Capability to sort feed via time of posting, topics etc.\
-  Making UI responsive. Ability to club various blogs together under a bucket (topic) -> create a sequence of blogs
+### Try to work on these features once all the required features are complete
+  1.  Having the capability to add blogs to drafts before posting them
+  2.  Having the capability to schedule when a blog would get posted
+  3.  Sending notifications to all users who follow a current user when the current user posts a new blog or makes changes to an existing one
+  4.  Capability to sort feed via time of posting, topics etc.
+  5.  Making UI responsive. Ability to club various blogs together under a bucket (topic) -> create a sequence of blogs
