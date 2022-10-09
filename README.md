@@ -56,7 +56,8 @@ Make a web application for blogging which has built in capabilities to handle va
 ### Entities
 
 #### User
-{
+```json
+[{
   "id": 12,
   "username": "johndoe001",
   "email": "john@mail.com",
@@ -64,6 +65,7 @@ Make a web application for blogging which has built in capabilities to handle va
   "avatar": "https://avatars.dicebear.com/v2/johndoe001.png",
   "createdAt": "2020-01-01T00:00:00.000Z"
 }
+]
 NOTE: password has to be hashed and stored too
 
 #### Article
@@ -130,7 +132,6 @@ available query parameters :
 <li>?follower=johndoe🔐 users whom johndoe follows</li>
 <li>?following=johndoe🔐 find all johndoe followers</li>
 <ul>
-
 ##### GET /users/{userid} 🔐
 
 get user profile by user id
