@@ -66,6 +66,7 @@ Make a web application for blogging which has built in capabilities to handle va
   "createdAt": "2020-01-01T00:00:00.000Z"
 }
 ]
+```
 NOTE: password has to be hashed and stored too
 
 #### Article
