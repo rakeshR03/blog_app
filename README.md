@@ -13,6 +13,7 @@ Make a web application for blogging which has built in capabilities to handle va
   5. A USER should be able to follow another USER so that their BLOGS have a higher priority on the former USER's feed 
   6. USERS should be able to COMMENT under a BLOG. These comments would be public 
   7. USERS should be able to LIKE / UNLIKE a BLOG 
+<hr />
 
 ## Basic Flow
 
@@ -25,7 +26,8 @@ Make a web application for blogging which has built in capabilities to handle va
   <li>An editor where user can create blogs to be posted
   <li>An editor where user can edit the already posted blogs
   <li>Capability to view another user's profile and follow/unfollow them
- </ul> 
+ </ul>
+<hr />
   
 ## Expectations from Submission
 
@@ -35,6 +37,7 @@ Make a web application for blogging which has built in capabilities to handle va
   Code should be optimised on various fronts and hardcoding logic should be avoided\
   Kindly add a proper readme to your project for easy navigation and installation\
   The overall UI should be easy to navigate and have good UX
+<hr />
   
 ### Good to haves (Optional Requirements)
 
