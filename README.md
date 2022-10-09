@@ -122,7 +122,6 @@ https://user-images.githubusercontent.com/1327050/168328390-12badd31-49f9-4a00-a
 ##### users
 
 ##### POST /users
-
 create a new user (signup)
 
 ##### POST /users/login
@@ -137,7 +136,8 @@ available query parameters :
 <li>?username=something filter by username (i.e. username contains something)</li>
 <li>?follower=johndoe🔐 users whom johndoe follows</li>
 <li>?following=johndoe🔐 find all johndoe followers</li>
-<ul>
+</ul>
+
 ##### GET /users/{userid} 🔐
 
 get user profile by user id
